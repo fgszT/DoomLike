@@ -1,0 +1,163 @@
+﻿  Circle2D.cpp
+D:\projects\DoomLike\DoomLike\Circle2D.cpp(65,150): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\projects\DoomLike\DoomLike\Circle2D.cpp(65,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\projects\DoomLike\DoomLike\Circle2D.cpp(66,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Gun.cpp
+  Line2D.cpp
+  main.cpp
+  Object2D.cpp
+D:\projects\DoomLike\DoomLike\Object2D.cpp(34,134): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\Object2D.cpp(34,81): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Player.cpp
+D:\projects\DoomLike\DoomLike\Player.cpp(249,20): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\projects\DoomLike\DoomLike\Player.cpp(288,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\projects\DoomLike\DoomLike\Player.cpp(288,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\projects\DoomLike\DoomLike\Player.cpp(290,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\projects\DoomLike\DoomLike\Player.cpp(293,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\projects\DoomLike\DoomLike\Player.cpp(301,197): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\Player.cpp(301,112): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\Player.cpp(302,255): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\Player.cpp(302,149): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\Player.cpp(305,362): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\Player.cpp(305,197): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\Player.cpp(311,130): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\projects\DoomLike\DoomLike\Player.cpp(311,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\projects\DoomLike\DoomLike\Player.cpp(332,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\projects\DoomLike\DoomLike\Player.cpp(368,83): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\projects\DoomLike\DoomLike\Player.cpp(368,69): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\projects\DoomLike\DoomLike\Player.cpp(369,88): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\Player.cpp(369,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\Player.cpp(370,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\projects\DoomLike\DoomLike\Player.cpp(394,38): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\Player.cpp(395,38): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\Player.cpp(396,83): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\Player.cpp(396,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\Player.cpp(397,83): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\Player.cpp(397,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\Player.cpp(401,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Quad2D.cpp
+  Triangle2D.cpp
+  Weapon.cpp
+D:\projects\DoomLike\DoomLike\Weapon.cpp(7,88): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\Weapon.cpp(7,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\Weapon.cpp(8,64): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\projects\DoomLike\DoomLike\Weapon.cpp(8,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  World.cpp
+D:\projects\DoomLike\DoomLike\World.cpp(55,57): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\World.cpp(56,110): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\World.cpp(56,57): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\DoomLike\DoomLike\World.cpp(57,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'

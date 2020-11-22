@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoomLike", "DoomLike\DoomLike.vcxproj", "{C8DF995A-3166-4856-BF68-EE0B4F875D58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8DF995A-3166-4856-BF68-EE0B4F875D58}.Debug|x64.ActiveCfg = Debug|x64
+		{C8DF995A-3166-4856-BF68-EE0B4F875D58}.Debug|x64.Build.0 = Debug|x64
+		{C8DF995A-3166-4856-BF68-EE0B4F875D58}.Debug|x86.ActiveCfg = Debug|Win32
+		{C8DF995A-3166-4856-BF68-EE0B4F875D58}.Debug|x86.Build.0 = Debug|Win32
+		{C8DF995A-3166-4856-BF68-EE0B4F875D58}.Release|x64.ActiveCfg = Release|x64
+		{C8DF995A-3166-4856-BF68-EE0B4F875D58}.Release|x64.Build.0 = Release|x64
+		{C8DF995A-3166-4856-BF68-EE0B4F875D58}.Release|x86.ActiveCfg = Release|Win32
+		{C8DF995A-3166-4856-BF68-EE0B4F875D58}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {428DA0E9-4614-477E-A7B1-AFA8C9065138}
+	EndGlobalSection
+EndGlobal
